@@ -1,2 +1,2 @@
 # Multi-Threading
-Multi-threadedf implementations in C++
+=>Utilizing C++20 futures to implement multi-threading
